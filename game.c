@@ -71,6 +71,7 @@ bool checkLoss(int* board, int size) {
     }
     return true; // אם לא נמצאו מהלכים אפשריים
 }
+//some changes
 
 
 bool moveUp(int* board, int size, int* score) {
