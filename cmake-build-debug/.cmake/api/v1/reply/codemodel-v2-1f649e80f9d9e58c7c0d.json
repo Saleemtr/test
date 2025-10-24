@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2048project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2048project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2048project-Debug-3c38626da89e9bac63f6.json",
+					"name" : "2048project",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/saleemtrudi/Desktop/\u05e9\u05e0\u05d4 \u05d1\u05f3/Semester A/\u05de\u05d1\u05d5\u05d0 \u05dc\u05ea\u05db\u05e0\u05d5\u05ea \u05de\u05e2\u05e8\u05db\u05d5\u05ea /2048project/cmake-build-debug",
+		"source" : "/Users/saleemtrudi/Desktop/\u05e9\u05e0\u05d4 \u05d1\u05f3/Semester A/\u05de\u05d1\u05d5\u05d0 \u05dc\u05ea\u05db\u05e0\u05d5\u05ea \u05de\u05e2\u05e8\u05db\u05d5\u05ea /2048project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
